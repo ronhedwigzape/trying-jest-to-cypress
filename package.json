@@ -1,0 +1,14 @@
+{
+  "name": "trying-jest-with-cypress",
+  "version": "1.0.0",
+  "description": "Trying Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ron Hedwig Zape",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
